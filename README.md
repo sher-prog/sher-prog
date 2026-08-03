@@ -4,9 +4,6 @@
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=sher-prog&color=8B7EC8&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/sher-prog?style=for-the-badge&color=8B7EC8&labelColor=1a1a1a)
-
 </div>
 
 ## About Me
@@ -64,9 +61,6 @@ A safety-planning app for survivors of gender-based violence, disguised as an or
 ## GitHub Analytics
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=sher-prog&hide_border=true&background=0D1117&ring=8B7EC8&fire=C8A8E9&currStreakLabel=8B7EC8" alt="streak stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=sher-prog&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B7EC8&icon_color=C8A8E9&text_color=c9d1d9" alt="stats" width="48%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sher-prog&bg_color=0D1117&color=8B7EC8&line=C8A8E9&point=ffffff&area=true&hide_border=true" alt="activity graph" width="97%"/>
 
